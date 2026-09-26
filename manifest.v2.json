@@ -21,8 +21,8 @@
       "author": "financewiki-park",
       "description": "One-user Telegram bridge for Kindle",
       "artifacts": [
-        {"url": "https://raw.githubusercontent.com/financewiki-park/ktm/main/packages/ktm/artifacts/ktm_0.1.4_kindlehf.kpkg", "version": [0, 1, 4], "dependencies": [{"id": "kterm", "min": [2, 6, 0]}], "supported_platforms": ["kindlehf"]},
-        {"url": "https://raw.githubusercontent.com/financewiki-park/ktm/main/packages/ktm/artifacts/ktm_0.1.4_kindlepw2.kpkg", "version": [0, 1, 4], "dependencies": [{"id": "kterm", "min": [2, 6, 0]}], "supported_platforms": ["kindlepw2"]}
+        {"url": "https://raw.githubusercontent.com/financewiki-park/ktm/main/packages/ktm/artifacts/ktm_0.1.5_kindlehf.kpkg", "version": [0, 1, 5], "dependencies": [{"id": "kterm", "min": [2, 6, 0]}], "supported_platforms": ["kindlehf"]},
+        {"url": "https://raw.githubusercontent.com/financewiki-park/ktm/main/packages/ktm/artifacts/ktm_0.1.5_kindlepw2.kpkg", "version": [0, 1, 5], "dependencies": [{"id": "kterm", "min": [2, 6, 0]}], "supported_platforms": ["kindlepw2"]}
       ]
     }
   }
