@@ -8,13 +8,13 @@
       "name": "Korean IME Probe",
       "author": "financewiki-park",
       "description": "Read-only Kindle keyboard compatibility probe.",
-      "artifacts": [{"url": "https://raw.githubusercontent.com/financewiki-park/kindle-korean-ime/main/packages/korean-ime-probe/artifacts/korean-ime-probe_0.2.4_kindlehf-kindlepw2.kpkg", "version": [0, 2, 4], "dependencies": [], "supported_platforms": ["kindlehf", "kindlepw2"]}]
+      "artifacts": [{"url": "https://raw.githubusercontent.com/financewiki-park/kindle-korean-ime/main/packages/korean-ime-probe/artifacts/korean-ime-probe_0.2.5_kindlehf-kindlepw2.kpkg", "version": [0, 2, 5], "dependencies": [], "supported_platforms": ["kindlehf", "kindlepw2"]}]
     },
     "korean-ime": {
       "name": "Korean IME (staged)",
       "author": "financewiki-park",
       "description": "Guarded Dubeolsik engine; activation requires a reviewed Probe report.",
-      "artifacts": [{"url": "https://raw.githubusercontent.com/financewiki-park/kindle-korean-ime/main/packages/korean-ime/artifacts/korean-ime_0.2.4_kindlehf-kindlepw2.kpkg", "version": [0, 2, 4], "dependencies": [], "supported_platforms": ["kindlehf", "kindlepw2"]}]
+      "artifacts": [{"url": "https://raw.githubusercontent.com/financewiki-park/kindle-korean-ime/main/packages/korean-ime/artifacts/korean-ime_0.2.5_kindlehf-kindlepw2.kpkg", "version": [0, 2, 5], "dependencies": [], "supported_platforms": ["kindlehf", "kindlepw2"]}]
     }
   }
 }
